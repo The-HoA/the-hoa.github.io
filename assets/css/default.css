@@ -6,9 +6,18 @@
     height: 100vh;
     margin: 0;
     display: flex;
-    flex-direction: column; /* Add this line */
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     font-family: "Bungee Tint", sans-serif;
     font-size: 45px;
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+main {
+    text-align: center;
+    width: 100%;
+    max-width: 800px;
 }
