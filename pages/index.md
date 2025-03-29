@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /
 ---
 
 <img src="images/dragon_minimal.svg" height="200px">
