@@ -1,0 +1,13 @@
+/* css for the coming soon view */
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Tint&display=swap');
+
+.coming-soon {
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Bungee Tint", sans-serif;
+    font-size: 60px;
+}
