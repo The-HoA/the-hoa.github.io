@@ -58,7 +58,7 @@ The guild of the Dungeon Masters are plotting!
 {% endif %}
 
 <style>
-.btn-instagram {
+/* .btn-instagram {
   background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
   width: 44px;
   padding: 0;
@@ -66,5 +66,5 @@ The guild of the Dungeon Masters are plotting!
   align-items: center;
   justify-content: center;
   aspect-ratio: 1/1;
-}
+} */
 </style>
