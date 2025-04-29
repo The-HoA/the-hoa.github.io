@@ -1,0 +1,49 @@
+/* Hero Section */
+.hero {
+  background-color: #E6E8F0;
+  padding: 4rem 0;
+  width: 100%;
+}
+
+.hero-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.hero-logo-container {
+  flex: 1 1 40%;
+  max-width: 400px;
+  text-align: center;
+}
+
+.hero-logo {
+  max-width: 100%;
+  height: auto;
+}
+
+.hero-content {
+  flex: 1 1 50%;
+  max-width: 600px;
+}
+
+.hero-content h2 {
+  font-size: 2.2rem;
+  margin-bottom: 1rem;
+}
+
+.hero-content p {
+  margin-bottom: 1.5rem;
+  line-height: 1.7;
+}
+
+.hero-buttons {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}

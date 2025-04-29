@@ -1,15 +1,57 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-    <link rel="stylesheet" href="{{ '/assets/css/default.css' | relative_url }}">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ site.title }} | {{ page.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+    <link href="https://fonts.googleapis.com/css2?family=Germania+One&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+    
+    {% if site.dev_mode and page.url != '/' %}
+    <script>
+        // Redirect any page except the homepage back to home when in dev_mode
+        window.location.href = "/";
+    </script>
+    {% endif %}
 </head>
 <body>
-  <div class="coming-soon">
-    <img src="{{ '/assets/images/dragon_minimal.svg' | relative_url }}" height="200px">
-    <main>
+  {% if site.dev_mode %}
+        <div class="coming-soon">
+            <img src="{{ '/assets/images/dragon_minimal.svg' | relative_url }}" height="200px">
+            <main>
+                {{ content }}
+            </main>
+        </div>
+  {% else %}
+  <header>
+    <div class="header-container">
+        <div class="logo-small">
+            <a href="/">The HoA</a>
+        </div>
+        <nav>
+            <a href="/events">events</a>
+            <a href="/faq">faq</a>
+        </nav>
+    </div>
+</header>
+
+<main>
+    {% comment %} Check if the current page is NOT the homepage {% endcomment %}
+    {% if page.url != '/' %} 
+        <div class="main-content-wrapper">
+            {{ content }}
+        </div>
+    {% else %}
         {{ content }}
-    </main>
-  </div>
+    {% endif %}
+</main>
+
+<footer>
+    <div class="footer-container">
+        <p>© {{ 'now' | date: "%Y" }} The House of Adventures</p>
+    </div>
+</footer>
+  {% endif %}
 </body>
 </html>

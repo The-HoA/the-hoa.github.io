@@ -1,0 +1,78 @@
+/* General Section Styling */
+.section {
+  padding: 4rem 0;
+  width: 100%;
+  background-color: #fff;
+}
+
+// Example for alternating background (adjust as needed)
+// .section:nth-child(even) { // Start with first section after hero as white
+//   background-color: #f9f9f9; 
+// }
+
+.section-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+  flex-wrap: wrap;
+}
+
+.section-text {
+  flex: 1 1 50%;
+  max-width: 600px;
+}
+
+.section-images {
+  flex: 1 1 40%;
+  max-width: 500px;
+}
+
+.section-text h2 {
+  // font-family is inherited from _base.scss
+  font-size: 2rem; 
+  color: #2c3e50;
+  margin-bottom: 1rem;
+}
+
+.section-text p {
+  // font-family is inherited from _base.scss
+  margin-bottom: 1rem;
+  color: #333;
+  line-height: 1.7;
+}
+
+/* Specific Section Layouts */
+
+/* WHO ARE WE Section (Text Left, Images Right) */
+/* Default flex direction is row, so no need for .who-are-we .section-container rule */
+
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, 150px);
+  gap: 1rem;
+}
+
+.section-image-placeholder {
+  background-color: #d3d3d3;
+  border-radius: 5px;
+}
+
+.section-image-placeholder.large {
+  grid-column: 2 / 3;
+  grid-row: 1 / 3;
+}
+
+/* WHAT WE DO Section (Images Left, Text Right) */
+/* Removed .what-we-do .section-container rule since we're using HTML order instead */
+
+.discord-embed-img {
+  max-width: 100%;
+  height: auto;
+  border: 1px solid #eee;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  border-radius: 8px;
+}

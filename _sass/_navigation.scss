@@ -1,0 +1,34 @@
+/* Navigation */
+nav {
+  display: flex;
+  justify-content: center;
+}
+
+// Removed nav ul styles as the default.html uses direct <a> tags now
+// nav ul {
+//   list-style: none;
+//   display: flex;
+//   flex-wrap: wrap;
+//   align-items: center;
+//   justify-content: center;
+// }
+
+// nav li {
+//   margin-right: 1.5rem;
+// }
+
+nav a { // Styles for header nav links
+  color: #fff;
+  font-family: 'Germania One', cursive; // Match image style
+  font-size: 1.5rem; // Match image style
+  text-decoration: none;
+  // font-weight: bold; // Removed, Germania One is bold enough
+  transition: color 0.3s;
+  display: block; // Keeps block behavior
+  padding: 0.5rem 1rem; // Add some horizontal padding
+  margin-left: 0.5rem; // Space between nav items
+}
+
+nav a:hover {
+  color: #e6e6e6;
+}

@@ -1,0 +1,130 @@
+/* 
+ * EVENTS PAGE STYLES
+ * 
+ * HOW TO USE:
+ * 1. To add a new event, copy the <!-- EVENT CARD --> block from index.md
+ * 2. Update the title, date, description and link
+ * 3. Replace placeholder-image with actual image when available
+ */
+
+/* Events page styles */
+.events-page {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 20px;
+}
+
+/* Top section with upcoming adventures */
+.top-section {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin-bottom: 3rem;
+}
+
+.upcoming-text {
+  flex: 1 1 55%;
+  min-width: 300px;
+  
+  h2 {
+    margin-bottom: 1rem;
+  }
+}
+
+.discord-box {
+  flex: 1 1 35%;
+  min-width: 250px;
+  max-width: 400px;
+  
+  img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+}
+
+/* Past expeditions */
+.past-events {
+  h2 {
+    margin-bottom: 2rem;
+  }
+}
+
+/* Individual event */
+.event-item {
+  display: flex;
+  gap: 2rem;
+  margin-bottom: 3rem;
+  
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.event-img {
+  flex: 0 0 200px;
+  height: 200px;
+  background-color: #d3d3d3 !important;
+  border-radius: 5px;
+}
+
+.event-content {
+  flex: 1;
+  
+  h3 {
+    margin-top: 0;
+    margin-bottom: 4px;
+  }
+  
+  .date {
+    color: #666;
+    font-size: 14px;
+    margin-bottom: 1rem;
+  }
+  
+  p {
+    margin-bottom: 1rem;
+  }
+  
+  .explore {
+    display: inline-block;
+    color: black;
+    font-weight: bold;
+    text-decoration: none !important;
+    border-bottom: 2px solid black;
+    padding-bottom: 2px;
+    
+    &:hover {
+      color: #666;
+      border-color: #666;
+    }
+  }
+}
+
+/* Placeholder image style (identical to home page) */
+.section-image-placeholder {
+  background-color: #d3d3d3;
+  border-radius: 5px;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+  .top-section {
+    flex-direction: column;
+  }
+  
+  .event-item {
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  .event-img {
+    width: 100%;
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  
+  .event-content {
+    text-align: center;
+  }
+} 

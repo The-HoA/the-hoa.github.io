@@ -1,10 +1,29 @@
-
 title: The House of Adventures
 email: thehoa.ycct@gmail.com
+description: "A community for tabletop RPG enthusiasts"
 baseurl: ""
 url: ""
+primary_color: "#A6ADC4"
+
+#development mode
+dev_mode: false
+
+# social links
+whatsapp: "https://chat.whatsapp.com/F0BUQmPoHfx2vw07d74Jag"
+discord: "https://discord.gg/uzvgpjq8gB"
+instagram: "https://www.instagram.com/thehouse_of_adventures"
+
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+# Define the events collection
+collections:
+  events:
+    output: true # Generate individual pages for each event
+    permalink: /events/:path/ # URL structure for event pages (optional)
+    sort_by: date # Default sort order (we'll override in the template)
+
+

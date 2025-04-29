@@ -1,0 +1,152 @@
+.events-page {
+  // Inherits padding from .main-content-wrapper
+}
+
+.events-top-section {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin-bottom: 3rem; // Space before past expeditions
+  align-items: flex-start; // Align items top
+
+  .upcoming-text {
+    flex: 1 1 55%; // Takes more space
+    min-width: 300px;
+
+    h2 {
+        margin-bottom: 0.75rem;
+    }
+    h4 {
+        margin-top: 1.5rem;
+        margin-bottom: 0.5rem;
+    }
+    ul {
+        list-style: none;
+        padding-left: 0;
+        li {
+            margin-bottom: 0.3rem;
+            color: #555;
+        }
+    }
+  }
+
+  .discord-embed-container {
+    flex: 1 1 35%; // Takes less space
+    min-width: 250px;
+    max-width: 400px; // Max width for the embed
+
+    .discord-embed-img {
+      max-width: 100%;
+      height: auto;
+      border: 1px solid #eee;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      border-radius: 8px;
+      display: block;
+    }
+  }
+}
+
+.past-expeditions {
+  h2 {
+    margin-bottom: 2rem; // Space below heading
+  }
+}
+
+.event-list {
+  display: grid;
+  gap: 2.5rem; // Space between cards
+}
+
+.event-card {
+  display: flex;
+  flex-wrap: wrap; // Allow wrapping on small screens
+  gap: 2rem; // Space between image and content
+  background-color: #fff; // White background for cards (optional)
+  padding: 1.5rem;        // Padding inside card (optional)
+  border-radius: 5px;     // Rounded corners (optional)
+  box-shadow: 0 1px 5px rgba(0,0,0,0.08); // Subtle shadow (optional)
+
+  .event-card-image {
+    flex: 0 0 200px; // Fixed width for image container
+    max-width: 100%; // Ensure it doesn't overflow on wrap
+
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      border-radius: 3px; // Slightly rounded image corners
+    }
+
+    .event-image-placeholder {
+      width: 100%;
+      padding-top: 66.66%; // Aspect ratio 3:2
+      background-color: #e0e0e0; // Placeholder color
+      border-radius: 3px;
+    }
+  }
+
+  .event-card-content {
+    flex: 1 1 300px; // Allow content to grow and shrink
+
+    h3 {
+      margin-top: 0; // Remove default top margin
+      margin-bottom: 0.5rem;
+      font-size: 1.5rem; // Adjust title size
+    }
+
+    .event-date {
+      font-size: 0.9rem;
+      color: #666;
+      margin-bottom: 1rem;
+    }
+
+    p { // Style for the description snippet
+      margin-bottom: 1.5rem;
+      font-size: 1rem;
+      line-height: 1.6;
+    }
+
+    .event-explore-link {
+      font-weight: bold;
+      text-decoration: none;
+      color: #333; // Or your theme color
+      padding-bottom: 2px;
+      border-bottom: 2px solid #333; // Underline effect
+      transition: color 0.3s, border-color 0.3s;
+
+      &:hover {
+        color: #A6ADC4; // Your theme hover color
+        border-color: #A6ADC4;
+      }
+    }
+  }
+}
+
+// Responsive adjustments (add within the main media query in _responsive.scss or here)
+@media (max-width: 768px) {
+  .events-top-section {
+    flex-direction: column; // Stack upcoming text and discord
+    .discord-embed-container {
+        max-width: 100%; // Allow embed to take full width when stacked
+    }
+  }
+
+  .event-card {
+    flex-direction: column; // Stack image and content
+
+    .event-card-image {
+      flex-basis: auto; // Reset basis
+      width: 100%; // Allow image container to take full width
+      max-width: 300px; // Optional max width for stacked image
+      margin: 0 auto; // Center stacked image container
+    }
+    .event-card-content {
+        flex-basis: auto; // Reset basis
+        text-align: center; // Center text when stacked
+
+        .event-explore-link {
+            display: inline-block; // Needed for centering link text
+        }
+    }
+  }
+} 

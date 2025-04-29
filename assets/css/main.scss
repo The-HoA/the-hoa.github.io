@@ -1,0 +1,32 @@
+---
+# Front matter required by Jekyll
+---
+
+// Import variables first (optional but good practice)
+// @import "variables"; 
+
+// Import base styles and resets
+@import "base";
+
+// Import layout structure
+@import "layout";
+
+// Import navigation
+@import "navigation";
+
+// Import components
+@import "buttons";
+@import "cards";
+
+// Import page-specific sections/modules
+@import "hero";
+@import "sections";
+@import "events-page";
+
+// Import utility classes
+@import "utilities";
+
+// Import responsive styles last
+@import "responsive";
+
+@import "events"; 
