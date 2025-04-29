@@ -45,10 +45,10 @@ Yes—mentors available, plus monthly “Learn to Play” workshops.
 Sure, but you still pay the session fee.
 
 ### 14. How do I stay updated?
-Join our Discord, follow us on Instagram/Twitter (@HoA_Kolkata).
+Join our Discord, follow us on [Instagram]({{ site.instagram }}).
 
 ### 15. Who do I contact for issues?
-Email organizer@houseofadventures.in or ping any moderator on Discord.
+Email {{ site.email }} or ping any moderator on Discord.
 
 
 ## Where can I find your community guidelines?
