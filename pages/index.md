@@ -13,7 +13,7 @@ The guild of the Dungeon Masters are plotting!
     </div>
     <div class="hero-content">
       <h2>WELCOME TO OUR COMMUNITY</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed commodo eu est sed ullamcorper. Mauris varius venenatis molestie. Morbi tinci</p>
+      <p>Welcome to House of Adventures—a growing collective of storytellers, dice-rollers, rule-benders, and fantasy-lovers based in Kolkata. What started as a casual home server has now evolved into a full-fledged community of passionate players and dedicated Game Masters, united by one goal: to make tabletop role-playing games accessible, welcoming, and wildly fun for everyone.</p>
       
       <div class="hero-buttons">
         <a href="{{ site.discord }}" class="btn btn-discord" target="_blank" rel="noopener noreferrer">Discord</a>
@@ -32,8 +32,9 @@ The guild of the Dungeon Masters are plotting!
   <div class="section-container">
     <div class="section-text">
       <h2>WHO ARE WE</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed commodo eu est sed ullamcorper. Mauris varius venenatis molestie. Morbi tinci</p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed commodo eu est sed ullamcorper. Mauris varius venenatis molestie. Morbi tinci</p>
+      <p>What started as a humble Discord server among friends—each fueled by a love for storytelling and inspired by actual play legends like Critical Role—soon became something much bigger. United by curiosity and a shared desire to dive into the world of Dungeons & Dragons, our early sessions were full of learning, laughter, and the kind of chaos only new adventurers can create.</p>
+      <p>But the magic didn’t stay contained for long. Word spread, more players joined, and before we knew it, House of Adventures had grown into a thriving community of TTRPG enthusiasts—welcoming veterans, first-timers, and everyone in between.</p>
+      <p>In the summer of 2023, we took a bold step beyond the virtual tabletop and hosted our very first D&D event in Kolkata. It was more than just a game event—it was the beginning of a dream. And from there? The adventure only grew.</p>
     </div>
     <div class="section-images image-grid">
       <div class="section-image-placeholder"></div>
@@ -50,8 +51,17 @@ The guild of the Dungeon Masters are plotting!
     </div>
     <div class="section-text">
       <h2>WHAT WE DO</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed commodo eu est sed ullamcorper. Mauris varius venenatis molestie. Morbi tinci</p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed commodo eu est sed ullamcorper. Mauris varius venenatis molestie. Morbi tinci</p>
+      <p>House of Adventures is dedicated to building an inclusive, imaginative, and community-driven space for tabletop role-playing games (TTRPGs) in Kolkata. We aim to spark creativity, foster collaborative storytelling, and connect people through immersive role-playing experiences that empower both players and creators. Our mission is to make TTRPGs accessible, exciting, and meaningful for everyone — from curious newcomers to veteran adventurers.</p>
+      <ol style="padding-left: 2rem;">
+        <li style="margin-bottom: 0.5rem; padding-left: 0.5rem;"><strong>Create a Strong Local Community</strong><br>
+        Build a welcoming and supportive hub for TTRPG enthusiasts in Kolkata through regular events, campaigns, and meetups.</li>
+        <li style="margin-bottom: 0.5rem; padding-left: 0.5rem;"><strong>Promote Accessibility & Education</strong><br>
+        Introduce new players to the world of TTRPGs through beginner-friendly sessions, tutorials, and educational content, both in English and regional languages.</li>
+        <li style="margin-bottom: 0.5rem; padding-left: 0.5rem;"><strong>Support Game Masters and Creators</strong><br>
+        Provide resources, training, and platforms for Game Masters (GMs), writers, and artists to design, run, and showcase original content and campaigns.</li>
+        <li style="margin-bottom: 0.5rem; padding-left: 0.5rem;"><strong>Grow India's TTRPG Ecosystem</strong><br>
+        Advocate for the growth of Indian TTRPGs by showcasing local creators, developing original content inspired by Indian mythology and culture, and connecting with the broader global community.</li>
+      </ol>
     </div>
   </div>
 </section>

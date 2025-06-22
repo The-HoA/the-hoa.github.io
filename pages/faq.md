@@ -5,49 +5,54 @@ permalink: /faq/
 ---
 ## Frequently Asked Questions
 
-### 1. What is the House of Adventures TTRPG community?
-A place in Kolkata where tabletop role-playing gamers meet to play, learn, and share campaigns.
 
-### 2. Who can join?
-Anyone in or near Kolkata, aged 16+, regardless of experience level.
+### What is a TTRPG?
+A TTRPG (Tabletop Role-Playing Game) is a collaborative storytelling game where players assume the roles of characters and navigate adventures guided by a Game Master (GM). Dungeons & Dragons (D&D) is one of the most well-known TTRPGs.
 
-### 3. What games do you run?
-We host D&D (5e), Pathfinder, Call of Cthulhu, and rotating indie systems.
+### Do I need any experience to join?
+Not at all! We welcome complete beginners, curious newcomers, and seasoned adventurers alike. Our sessions are beginner-friendly, and our GMs are happy to walk you through the basics.
 
-### 4. Do I need my own dice and character sheet?
-Yes—bring your dice and sheets. We have extras but don’t count on them.
+### How do I sign up for a game night or event?
+We announce upcoming events and games on our official Discord and WhatsApp groups. IRL events will have a sign-up form or instructions on how to join.
 
-### 5. How do I join a session?
-Sign up on our Discord or website signup form—slots fill fast.
+### Do I need to bring anything?
+For in-person events:
+<ul style="padding-left: 2rem;">
+<li style="padding-left: 0.5rem;"> We provide character tokens, maps, dice, and all necessary materials. </li>
+<li style="padding-left: 0.5rem;"> You're welcome to bring your own dice, miniatures, or props if you like! </li>
+</ul>
+<br/>
+For online sessions:
+<ul style="padding-left: 2rem;">
+<li style="padding-left: 0.5rem;"> You may need access to platforms like Discord, Roll20, or D&D Beyond (we'll let you know ahead of time).</li>
+<li style="padding-left: 0.5rem;"> A stable internet connection and a mic are recommended.</li>
+</ul>
 
-### 6. Where and when do you meet?
-Weekly on Saturdays, 3–8 PM, at [venue/address]. Check the calendar for holidays.
+### Is there a fee to participate?
+Some events are free; others may have a small entry fee to cover venue, materials, or GM time. Details are always mentioned in the event post.
 
-### 7. Is there a fee?
-₹100 per session to cover venue and snacks. No refunds if you bail last-minute.
+### What if I've never created a character before?
+No problem! We offer pre-generated characters, character creation workshops run by experienced GMs, and we're happy to help you build your own before the session. Our in-person events always have a mandatory session 0 where the GM will personally assist you.
 
-### 8. Can I bring friends or run my own game?
-Absolutely—DMs and new players are always welcome. Fill out the “Run a Game” form.
+### How long does a session last?
+A typical one-shot or intro session lasts 3–4 hours. Longer campaigns may vary in duration and are discussed ahead of time.
 
-### 9. What’s your code of conduct?
-Respect everyone, no hate speech, no harassment. Violate it and you’re out.
+### Can I come just to watch?
+Absolutely! Spectators are welcome at most events (space permitting), and it's a great way to learn how the game works before jumping in.
 
-### 10. Do you offer online or hybrid play?
-Currently in-person only. Online may return if there’s enough demand.
+### What kind of games do you run besides D&D?
+While Dungeons & Dragons is our most popular system, we also explore a variety of TTRPGs like Call of Cthulhu, Pathfinder, Mork Borg, Monster of the Week, Candela Obscura, and more, depending on interest and availability.
 
-### 11. How do I level up my character between sessions?
-Keep track yourself. We don’t do group bookkeeping.
+### Can I GM a session with House of Adventures?
+Yes! We're always excited to collaborate with passionate Game Masters. If you'd like to run a game at one of our events or online, reach out through our contact form or Discord.
 
-### 12. Are beginners supported?
-Yes—mentors available, plus monthly “Learn to Play” workshops.
+### Where are your in-person events held?
+We host most of our in-person sessions in Kolkata. Venue details are shared ahead of each event. We occasionally partner with local cafés, anime conventions, and hobby spaces.
 
-### 13. Can I spectate without playing?
-Sure, but you still pay the session fee.
+### How can I stay updated on future events?
+Join our Discord or WhatsApp, follow us on [Instagram]({{ site.instagram }}), or keep an eye on our website's Events section. We post regular updates, sign-up links, and community highlights.
 
-### 14. How do I stay updated?
-Join our Discord, follow us on [Instagram]({{ site.instagram }}).
-
-### 15. Who do I contact for issues?
+### Who do I contact for issues?
 Email {{ site.email }} or ping any moderator on Discord.
 
 
