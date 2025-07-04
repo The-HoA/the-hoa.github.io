@@ -12,7 +12,7 @@ permalink: /events/
       <p>Welcome to the chronicles of You Can Certainly Try, Kolkata's homegrown celebration of tabletop roleplaying games! From humble beginnings to major collaborative events, here’s a look at our journey through the realms of dice, drama, and dungeon delving.</p>
     </div>
     <div style="flex: 0 0 350px;">
-      <img src="{{ '/assets/images/discord-embed.png' | relative_url }}" alt="Discord Embed" style="max-width: 100%; border-radius: 8px;">
+      <!-- <img src="{{ '/assets/images/discord-embed.png' | relative_url }}" alt="Discord Embed" style="max-width: 100%; border-radius: 8px;"> -->
     </div>
   </div>
 
@@ -21,7 +21,8 @@ permalink: /events/
   
   <!-- Roll for Adventure -->
   <div style="display: flex; margin-bottom: 40px;">
-    <div style="width: 200px; height: 200px; background-color: #d3d3d3; margin-right: 30px; flex-shrink: 0;"></div>
+    <!-- <div style="width: 200px; height: 200px; background-color: #d3d3d3; margin-right: 30px; flex-shrink: 0;"></div> -->
+    <div style="width: 200px; height: 200px; background: url('/pages/events/event-RoA/cover.webp') center/cover; margin-right: 30px; flex-shrink: 0;"></div>
     <div>
       <h3>Roll for Adventure: Kolkata Toys & Gaming Fest ft. KCK</h3>
       <p style="color: #666; font-size: 14px;">April, 2025</p>
@@ -32,7 +33,7 @@ permalink: /events/
   
   <!-- YCCT Frost & Fables -->
   <div style="display: flex; margin-bottom: 40px;">
-    <div style="width: 200px; height: 200px; background-color: #d3d3d3; margin-right: 30px; flex-shrink: 0;"></div>
+    <div style="width: 200px; height: 200px; background: url('/pages/events/event-ycct3/cover.jpg') center/cover; margin-right: 30px; flex-shrink: 0;"></div>
     <div>
       <h3>You Can Certainly Try: Frost & Fables</h3>
       <p style="color: #666; font-size: 14px;">December, 2024</p>
@@ -43,7 +44,7 @@ permalink: /events/
   
   <!-- YCCT 2.0 -->
   <div style="display: flex; margin-bottom: 40px;">
-    <div style="width: 200px; height: 200px; background-color: #d3d3d3; margin-right: 30px; flex-shrink: 0;"></div>
+    <div style="width: 200px; height: 200px; background: url('/pages/events/event-ycct2/cover.png') center/cover; margin-right: 30px; flex-shrink: 0;"></div>
     <div>
       <h3>You Can Certainly Try 2.0</h3>
       <p style="color: #666; font-size: 14px;">August, 2024</p>
@@ -54,7 +55,7 @@ permalink: /events/
 
   <!-- YCCT 1.0 -->
   <div style="display: flex; margin-bottom: 40px;">
-    <div style="width: 200px; height: 200px; background-color: #d3d3d3; margin-right: 30px; flex-shrink: 0;"></div>
+    <div style="width: 200px; height: 200px; background: url('/pages/events/event-ycct1/cover.jpg') center/cover; margin-right: 30px; flex-shrink: 0;"></div>
     <div>
       <h3>You Can Certainly Try 1.0</h3>
       <p style="color: #666; font-size: 14px;">October, 2023</p>

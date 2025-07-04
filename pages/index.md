@@ -37,9 +37,10 @@ The guild of the Dungeon Masters are plotting!
       <p>In the summer of 2023, we took a bold step beyond the virtual tabletop and hosted our very first D&D event in Kolkata. It was more than just a game event—it was the beginning of a dream. And from there? The adventure only grew.</p>
     </div>
     <div class="section-images image-grid">
+      <!-- <div class="section-image-placeholder"></div>
       <div class="section-image-placeholder"></div>
-      <div class="section-image-placeholder"></div>
-      <div class="section-image-placeholder large"></div>
+      <div class="section-image-placeholder large"></div> -->
+    <img src="/pages/poster.jpg" alt="Description" class="section-image large" style="width: auto; height: 400px; object-fit: cover;">
     </div>
   </div>
 </section>
@@ -47,7 +48,8 @@ The guild of the Dungeon Masters are plotting!
 <section class="section what-we-do">
   <div class="section-container">
     <div class="section-images">
-      <img src="{{ '/assets/images/discord-embed.png' | relative_url }}" alt="Discord Embed" class="discord-embed-img">
+      <!-- <img src="{{ '/assets/images/discord-embed.png' | relative_url }}" alt="Discord Embed" class="discord-embed-img"> -->
+      <iframe src="https://discord.com/widget?id=1039805790552338482&theme=dark" width="90%" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
     </div>
     <div class="section-text">
       <h2>WHAT WE DO</h2>
@@ -66,15 +68,3 @@ The guild of the Dungeon Masters are plotting!
   </div>
 </section>
 {% endif %}
-
-<style>
-/* .btn-instagram {
-  background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
-  width: 44px;
-  padding: 0;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  aspect-ratio: 1/1;
-} */
-</style>
