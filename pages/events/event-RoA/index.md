@@ -7,23 +7,11 @@ event_page: true # Flag to identify this as an event
 permalink: /events/event-RoA/ # Ensure a permalink is set
 ---
 
-<div style="display: flex; margin-bottom: 30px;">
-<img src="{{ page.image }}" alt="Event Cover" style="width: 350px; height: 100%; object-fit: cover; margin-right: 30px; flex-shrink: 0;">
-<div markdown="1">
-## {{ page.title }}
-
-- **Date:** {{ page.date | date: "%B, %Y"}}
-- **Venue:** ICCR, Kolkata
-
-In collaboration with Kolkata Comic Karnival (KCK), this special edition marked our debut at a major public convention. It was also our first foray into diverse game systems beyond D&D. With a vibrant crowd and a mix of new and experienced players, this event was a landmark moment for the local TTRPG community.
-
-
-#### Games & Game Masters:
-- **Dungeons & Dragons:** Pseudoraj, Ved, Shreyansh, Nyx, Shayar 
-- **Call of Cthulhu:** Shen
-
-</div>
-</div>
+{% include event_data.html
+    venue       ="ICCR, Kolkata"
+    description ="In collaboration with Kolkata Comic Karnival (KCK), this special edition marked our debut at a major public convention. It was also our first foray into diverse game systems beyond D&D. With a vibrant crowd and a mix of new and experienced players, this event was a landmark moment for the local TTRPG community."
+    games       ="- **Dungeons & Dragons:** Pseudoraj, Ved, Shreyansh, Nyx, Shayar\n- **Call of Cthulhu:** Shen"
+%}
 
 <div style="column-width: 350px; column-gap: 10px; column-fill: balance;">
 {% include instagram.html url="https://www.instagram.com/p/DJBOHBhTFR3/" %}

@@ -1,0 +1,16 @@
+<div style="display: flex; margin-bottom: 30px;">
+<img src="{{ page.image }}" alt="Event Cover" style="width: 350px; height: 100%; object-fit: cover; margin-right: 30px; flex-shrink: 0;">
+<div markdown="1">
+
+## {{ page.title }}
+
+- **Date:** {{ page.date | date: "%B, %Y"}}
+- **Venue:** {{ include.venue }}
+
+{{ include.description }}
+
+#### Games & Game Masters:
+{{ include.games }}
+
+</div>
+</div>
