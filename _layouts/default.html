@@ -7,7 +7,8 @@
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
     <link href="https://fonts.googleapis.com/css2?family=Germania+One&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
-    
+    <link rel="icon" type="image/x-icon" href="{{ '/assets/favicon-b.ico' | relative_url }}">
+
     {% if site.dev_mode and page.url != '/' %}
     <script>
         // Redirect any page except the homepage back to home when in dev_mode
@@ -37,6 +38,7 @@
 </header>
 
 <main>
+    {% include event-banner.html %}
     {% comment %} Check if the current page is NOT the homepage {% endcomment %}
     {% if page.url != '/' %} 
         <div class="main-content-wrapper">

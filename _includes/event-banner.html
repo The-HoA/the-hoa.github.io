@@ -1,0 +1,35 @@
+{% assign show_banner = true %}
+{% assign banner_text = "⚡⚡ YCCT: Deluge & Destiny  is here! Join us as a volunteer - " %}
+{% assign banner_link = "volunteer-signup" %}
+{% assign banner_cta = "Click here to register!" %}
+
+{% if show_banner %}
+<style>
+.event-banner {
+  background: linear-gradient(90deg, #4ecdc4, #68bbbb);
+  padding: 12px 0;
+  text-align: center;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+.banner-content {
+  color: white;
+  font-weight: 600;
+}
+.banner-link {
+  color: white;
+  text-decoration: underline;
+}
+.banner-link:hover {
+  text-decoration: none;
+}
+</style>
+
+<div class="event-banner">
+  <div class="banner-content">
+    <span class="banner-text">{{ banner_text }}</span>
+    <a href="{{ banner_link | relative_url  }}" class="banner-link">{{ banner_cta }}</a>
+  </div>
+</div>
+{% endif %}
