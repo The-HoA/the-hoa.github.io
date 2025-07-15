@@ -4,7 +4,7 @@ title: "Roll for Adventure: Kolkata Toys & Gaming Fest ft. KCK"
 date: "2025-04-26"
 image: /pages/events/event-RoA/cover.webp
 event_page: true # Flag to identify this as an event
-permalink: /events/event-RoA/ # Ensure a permalink is set
+permalink: /events/event-RfA/ # Ensure a permalink is set
 ---
 
 {% capture game_list %}

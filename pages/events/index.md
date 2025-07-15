@@ -27,7 +27,7 @@ permalink: /events/
       <h3>Roll for Adventure: Kolkata Toys & Gaming Fest ft. KCK</h3>
       <p style="color: #666; font-size: 14px;">April, 2025</p>
       <p>In collaboration with Kolkata Comic Karnival (KCK), this special edition marked our debut at a major public convention. It was also our first foray into diverse game systems beyond D&D. With a vibrant crowd and a mix of new and experienced players, this event was a landmark moment for the local TTRPG community.</p>
-      <a href="/events/event-RoA/" style="color: black; font-weight: bold; text-decoration: none; border-bottom: 2px solid black; padding-bottom: 2px;">EXPLORE</a>
+      <a href="/events/event-RfA/" style="color: black; font-weight: bold; text-decoration: none; border-bottom: 2px solid black; padding-bottom: 2px;">EXPLORE</a>
     </div>
   </div>
   
