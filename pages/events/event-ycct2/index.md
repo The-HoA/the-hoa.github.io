@@ -10,7 +10,7 @@ permalink: /events/event-ycct2/ # Ensure a permalink is set
 {% include event_data.html
     venue       ="Café Musafir, Kolkata"
     description ="Our second official convention saw a notable leap in scale and excitement. With six tables running simultaneously and a full house of players, this event cemented our place in Kolkata’s growing tabletop scene."
-    games       ="Rishabh, Dipjyoti, Shen, Roshni, Ved, Dragneel"
+    games       ="Dipjyoti, Shen, Ved, [@rishabh](https://www.instagram.com/spear_of_heaven/), [@roshni](https://www.instagram.com/rawshni/), [@dragneel](https://www.instagram.com/chandra__exe__/)"
 %}
 
 <div style="column-width: 350px; column-gap: 10px; column-fill: balance;">

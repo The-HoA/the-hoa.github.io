@@ -8,7 +8,7 @@ permalink: /events/event-RoA/ # Ensure a permalink is set
 ---
 
 {% capture game_list %}
-- **Dungeons & Dragons:** Pseudoraj, Ved, Shreyansh, Nyx, Shayar
+- **Dungeons & Dragons:** Ved, [@pseudoraj](https://www.instagram.com/theprofesssionalprocrastinator/), [@shreyansh](https://www.instagram.com/thermobardic), [@nyx](https://www.instagram.com/awkward.introvert_lazy.dreamer), [@sayar](https://www.instagram.com/silentkingsubject/)
 - **Call of Cthulhu:** Shen
 {% endcapture %}
 

@@ -1,3 +1,27 @@
+<style>
+    .games-section a {
+        color: #4a4552;
+        font-weight: bold;
+        text-decoration: none;
+        border-bottom: 1px solid #978da5;
+        padding-bottom: 1px;
+    }
+
+    .games-section a:hover {
+        border-bottom-color: #000000;
+    }
+</style>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const gameLinks = document.querySelectorAll('.games-section a');
+        gameLinks.forEach(link => {
+            link.setAttribute('target', '_blank');
+            link.setAttribute('rel', 'noopener noreferrer');
+        });
+    });
+</script>
+
 <div style="display: flex; margin-bottom: 30px;">
 <img src="{{ page.image }}" alt="Event Cover" style="width: 350px; height: 100%; object-fit: cover; margin-right: 30px; flex-shrink: 0;">
 <div markdown="1">
@@ -10,7 +34,9 @@
 {{ include.description }}
 
 #### Games & Game Masters:
+<div class="games-section" markdown="1">
 {{ include.games }}
+</div>
 
 </div>
 </div>
