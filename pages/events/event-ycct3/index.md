@@ -10,7 +10,7 @@ permalink: /events/event-ycct3/ # Ensure a permalink is set
 {% include event_data.html
     venue       ="Little Bistro Lounge, near Quest Mall, Kolkata"
     description ="The winter holiday special of our flagship event brought a touch of seasonal magic to the table. From snowy quests to festive feywilds, Frost & Fables delivered five unforgettable Dungeons & Dragons tables filled with cheer and challenge."
-    games       ="**Dungeons & Dragons:** Dipjyoti, Saurav, Shen, Annamede, [@sayar](https://www.instagram.com/silentkingsubject/)"
+    games       ="**Dungeons & Dragons:** Dipjyoti, Saurav, Shen, Annamede, Sayar"
 %}
 
 <div style="column-width: 350px; column-gap: 10px; column-fill: balance;">

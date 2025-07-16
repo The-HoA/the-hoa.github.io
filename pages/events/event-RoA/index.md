@@ -8,7 +8,7 @@ permalink: /events/event-RfA/ # Ensure a permalink is set
 ---
 
 {% capture game_list %}
-- **Dungeons & Dragons:** Ved, [@pseudoraj](https://www.instagram.com/theprofesssionalprocrastinator/), [@shreyansh](https://www.instagram.com/thermobardic), [@nyx](https://www.instagram.com/awkward.introvert_lazy.dreamer), [@sayar](https://www.instagram.com/silentkingsubject/)
+- **Dungeons & Dragons:** Ved, Sayar, [@pseudoraj](https://www.instagram.com/theprofesssionalprocrastinator/), [@shreyansh](https://www.instagram.com/thermobardic), [@nyx](https://www.instagram.com/awkward.introvert_lazy.dreamer)
 - **Call of Cthulhu:** Shen
 {% endcapture %}
 
