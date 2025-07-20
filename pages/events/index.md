@@ -14,6 +14,16 @@ permalink: /events/
     <div style="flex: 0 0 350px;">
       <!-- <img src="{{ '/assets/images/discord-embed.png' | relative_url }}" alt="Discord Embed" style="max-width: 100%; border-radius: 8px;"> -->
     </div>
+    <div style="display: flex; margin-bottom: 40px;">
+      <div style="width: 200px; height: 200px; background: url('/pages/events/event-ycct4/cover.png') center/cover; margin-right: 30px; flex-shrink: 0;"></div>
+      <div>
+        <h3>You Can Certainly Try: Deluge & Destiny</h3>
+        <p style="color: #666; font-size: 14px;">August, 2025</p>
+        <p>In collaboration with Kolkata Comic Karnival (KCK), this special edition marked our debut at a major public convention. It was also our first foray into diverse game systems beyond D&D. With a vibrant crowd and a mix of new and experienced players, this event was a landmark moment for the local TTRPG community.</p>
+        <a href="/events/event-ycct4/" style="color: black; font-weight: bold; text-decoration: none; border-bottom: 2px solid black; padding-bottom: 2px;">EXPLORE</a>
+      </div>
+    </div>
+
   </div>
 
   <!-- Past Events -->
