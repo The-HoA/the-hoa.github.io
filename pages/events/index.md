@@ -19,7 +19,7 @@ permalink: /events/
       <div>
         <h3>You Can Certainly Try: Deluge & Destiny</h3>
         <p style="color: #666; font-size: 14px;">August, 2025</p>
-        <p>In collaboration with Kolkata Comic Karnival (KCK), this special edition marked our debut at a major public convention. It was also our first foray into diverse game systems beyond D&D. With a vibrant crowd and a mix of new and experienced players, this event was a landmark moment for the local TTRPG community.</p>
+        <p>As the monsoon rains roll in, so do tales of mystery, monsters, and mayhem. You Can Certainly Try: Deluge and Destiny, a one-day tabletop RPG meetup where imagination strikes like thunder and lightning.</p>
         <a href="/events/event-ycct4/" style="color: black; font-weight: bold; text-decoration: none; border-bottom: 2px solid black; padding-bottom: 2px;">EXPLORE</a>
       </div>
     </div>

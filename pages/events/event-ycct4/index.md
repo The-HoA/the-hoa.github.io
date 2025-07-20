@@ -20,25 +20,30 @@ permalink: /events/event-ycct4/ # Ensure a permalink is set
 </style>
 
 
-<!-- {% capture game_list %}
-- **Dungeons & Dragons:**
-- **Call of Cthulhu:** Shen
-{% endcapture %} -->
+{% capture game_list %}
+- **Dungeons & Dragons (5e)** – Classic fantasy, heroic quests, and dungeon delving in storm-lashed lands.
+- **Pathfinder** – Tactical adventuring with high fantasy flavor, where every decision could change the fate of the realm.
+- **Mothership** – Sci-fi horror in deep space—will your crew survive the unknown, or drown in cosmic dread?
+- **Monster of the Week** – Investigate supernatural threats and stop creatures lurking in the shadows.
+- **Masks: A New Generation** – Play young superheroes grappling with power, identity, and supervillains.
+{% endcapture %}
 
 {% include event_data.html
     venue       ="Little Bistro Lounge, near Quest Mall, Kolkata"
-    description ="description"
-    games       ="Dungeons & Dragons, Monster of the Week, Pathfinder, Mothership, Game of Masks"
+    description ="As the monsoon rains roll in, so do tales of mystery, monsters, and mayhem. Join us for You Can Certainly Try: Deluge and Destiny, a one-day tabletop RPG meetup where imagination strikes like thunder and lightning."
+    games       =game_list
 %}
 
 It is time for **a new adventure** and the guild is hiring _adventurers_!
+Whether you're a seasoned adventurer or brand new to the hobby, we’ve got a seat for you at the table. Fill up the registration link to book your spot. We have limited seats!
+
 But before that here are some stuff the recruit should know about!
 
 **Registration rules**
 - The spots for players are limited so make sure to book it as soon as possible.
 - Your spot will be confirmed only after you make the payment and submit this form, in first-come-first-serve basis.
 - We will reach out to you via WhatsApp to include you in your table group, and all further communications regarding the event will be via WhatsApp.
-- The entry tickets can be cancelled till 25th August, after which there will be no refund for cancellations.
+- The entry tickets can be cancelled till **25th August**, after which there will be no refund for cancellations.
 - In the event of over-registration, you can choose to either get a refund or wait for a spot to open before the event.
 
 **Event Details**
@@ -51,6 +56,8 @@ But before that here are some stuff the recruit should know about!
 📝 To signup fill up [this form](https://forms.gle/Xoupad7QwJqMMyRFA){:target="_blank"}  
 🙋🏻 PS. The volunteering [registration](/volunteer) is still up but not for long!
 </div>
+
+If you'd like to spectate instead, feel free to join in!
 
 
 <!-- <div style="column-width: 350px; column-gap: 10px; column-fill: balance;">
