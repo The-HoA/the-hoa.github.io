@@ -12,7 +12,7 @@ The guild of the Dungeon Masters are plotting!
       <img src="{{ '/assets/images/logo.svg' | relative_url }}" alt="The House of Adventures Logo" class="hero-logo">
     </div>
     <div class="hero-content">
-      <h2>WELCOME TO OUR COMMUNITY</h2>
+      <h2>WELCOME TO THE HOUSE OF ADVENTURES</h2>
       <p>Welcome to House of Adventures—a growing collective of storytellers, dice-rollers, rule-benders, and fantasy-lovers based in Kolkata. What started as a casual home server has now evolved into a full-fledged community of passionate players and dedicated Game Masters, united by one goal: to make tabletop role-playing games accessible, welcoming, and wildly fun for everyone.</p>
       
       <div class="hero-buttons">
