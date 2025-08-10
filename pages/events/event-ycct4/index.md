@@ -24,7 +24,6 @@ permalink: /events/event-ycct4/ # Ensure a permalink is set
 - **Dungeons & Dragons (5e)** – Classic fantasy, heroic quests, and dungeon delving in storm-lashed lands.
 - **Pathfinder** – Tactical adventuring with high fantasy flavor, where every decision could change the fate of the realm.
 - **Mothership** – Sci-fi horror in deep space—will your crew survive the unknown, or drown in cosmic dread?
-- **Monster of the Week** – Investigate supernatural threats and stop creatures lurking in the shadows.
 - **Masks: A New Generation** – Play young superheroes grappling with power, identity, and supervillains.
 {% endcapture %}
 
@@ -53,8 +52,7 @@ But before that here are some stuff the recruit should know about!
 - In the event of non-communication, we reserve the right to cancel your tickets without refund after 25th August.
 
 <div class="form-link" markdown="1">
-📝 To signup fill up [this form](https://forms.gle/Xoupad7QwJqMMyRFA){:target="_blank"}  
-🙋🏻 PS. The volunteering [registration](/volunteer) is still up but not for long!
+📝 - The house is full! But you are cordially invted to spectate the games on 31st August!
 </div>
 
 If you'd like to spectate instead, feel free to join in!
