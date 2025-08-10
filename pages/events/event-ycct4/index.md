@@ -55,8 +55,6 @@ But before that here are some stuff the recruit should know about!
 📝 - The house is full! But you are cordially invted to spectate the games on 31st August!
 </div>
 
-If you'd like to spectate instead, feel free to join in!
-
 
 <!-- <div style="column-width: 350px; column-gap: 10px; column-fill: balance;">
 {% include instagram.html url="" %}
