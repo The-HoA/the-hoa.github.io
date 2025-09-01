@@ -14,20 +14,24 @@ permalink: /events/
     <div style="flex: 0 0 350px;">
       <!-- <img src="{{ '/assets/images/discord-embed.png' | relative_url }}" alt="Discord Embed" style="max-width: 100%; border-radius: 8px;"> -->
     </div>
-    <div style="display: flex; margin-bottom: 40px;">
-      <div style="width: 200px; height: 200px; background: url('/pages/events/event-ycct4/cover.png') center/cover; margin-right: 30px; flex-shrink: 0;"></div>
-      <div>
-        <h3>You Can Certainly Try: Deluge & Destiny</h3>
-        <p style="color: #666; font-size: 14px;">August, 2025</p>
-        <p>As the monsoon rains roll in, so do tales of mystery, monsters, and mayhem. You Can Certainly Try: Deluge and Destiny, a one-day tabletop RPG meetup where imagination strikes like thunder and lightning.</p>
-        <a href="/events/event-ycct4/" style="color: black; font-weight: bold; text-decoration: none; border-bottom: 2px solid black; padding-bottom: 2px;">EXPLORE</a>
-      </div>
-    </div>
+    
 
   </div>
 
   <!-- Past Events -->
   <h2>Past expeditions:</h2>
+
+  <!-- Deluge & Destiny -->
+  <div style="display: flex; margin-bottom: 40px;">
+    <!-- <div style="width: 200px; height: 200px; background-color: #d3d3d3; margin-right: 30px; flex-shrink: 0;"></div> -->
+    <div style="width: 200px; height: 200px; background: url('/pages/events/event-ycct4/cover.png') center/cover; margin-right: 30px; flex-shrink: 0;"></div>
+    <div>
+      <h3>You Can Certainly Try: Deluge & Destiny</h3>
+      <p style="color: #666; font-size: 14px;">August, 2025</p>
+      <p>As the monsoon rains rolled in, so did tales of mystery, monsters, and mayhem. You Can Certainly Try: Deluge and Destiny, a one-day tabletop RPG meetup where imagination strikes like thunder and lightning.</p>
+      <a href="/events/event-ycct4/" style="color: black; font-weight: bold; text-decoration: none; border-bottom: 2px solid black; padding-bottom: 2px;">EXPLORE</a>
+    </div>
+  </div>
   
   <!-- Roll for Adventure -->
   <div style="display: flex; margin-bottom: 40px;">

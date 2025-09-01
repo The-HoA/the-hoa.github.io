@@ -21,19 +21,19 @@ permalink: /events/event-ycct4/ # Ensure a permalink is set
 
 
 {% capture game_list %}
-- **Dungeons & Dragons (5e)** – Classic fantasy, heroic quests, and dungeon delving in storm-lashed lands.
-- **Pathfinder** – Tactical adventuring with high fantasy flavor, where every decision could change the fate of the realm.
-- **Mothership** – Sci-fi horror in deep space—will your crew survive the unknown, or drown in cosmic dread?
-- **Masks: A New Generation** – Play young superheroes grappling with power, identity, and supervillains.
+- **Dungeons & Dragons (5e)** – Ved, Dragneel, Nyx – Classic fantasy, heroic quests, and dungeon delving in storm-lashed lands.
+- **Pathfinder** – Dipjyoti – Tactical adventuring with high fantasy flavor, where every decision could change the fate of the realm.
+- **Mothership** – Shen – Sci-fi horror in deep space—will your crew survive the unknown, or drown in cosmic dread?
+- **Masks: A New Generation** – Roshni – Play young superheroes grappling with power, identity, and supervillains.
 {% endcapture %}
 
 {% include event_data.html
     venue       ="Little Bistro Lounge, near Quest Mall, Kolkata"
-    description ="As the monsoon rains roll in, so do tales of mystery, monsters, and mayhem. Join us for You Can Certainly Try: Deluge and Destiny, a one-day tabletop RPG meetup where imagination strikes like thunder and lightning."
+    description ="As the monsoon rains rolled in, so did tales of mystery, monsters, and mayhem. You Can Certainly Try: Deluge and Destiny, a one-day tabletop RPG meetup where imagination strikes like thunder and lightning."
     games       =game_list
 %}
 
-It is time for **a new adventure** and the guild is hiring _adventurers_!
+<!-- It is time for **a new adventure** and the guild is hiring _adventurers_!
 Whether you're a seasoned adventurer or brand new to the hobby, we’ve got a seat for you at the table. Fill up the registration link to book your spot. We have limited seats!
 
 But before that here are some stuff the recruit should know about!
@@ -49,16 +49,16 @@ But before that here are some stuff the recruit should know about!
 - There will be 6 DMs hosting 6 separate games. Players will be assigned to games based on their preferences to the best of our ability.
 - There will be an online (WhatsApp / Discord) session 0 with the DMs before the game.
 - Players are expected to maintain communication with their DMs and adhere to the session 0 and character creation deadlines.
-- In the event of non-communication, we reserve the right to cancel your tickets without refund after 25th August.
+- In the event of non-communication, we reserve the right to cancel your tickets without refund after 25th August. -->
 
-<div class="form-link" markdown="1">
+<!-- <div class="form-link" markdown="1">
 📝 - The house is full! But you are cordially invted to spectate the games on 31st August!
-</div>
+</div> -->
 
 
-<!-- <div style="column-width: 350px; column-gap: 10px; column-fill: balance;">
-{% include instagram.html url="" %}
-{% include instagram.html url="" %}
-{% include instagram.html url="" %}
+<div style="column-width: 350px; column-gap: 10px; column-fill: balance;">
+{% include instagram.html url="https://www.instagram.com/p/DOBf28mE8h8/" %}
+{% include instagram.html url="https://www.instagram.com/reel/DODdYVYkylh/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" %}
+{% include instagram.html url="https://www.instagram.com/p/DOF0DDTE3XL" %}
 </div>
-<script src="//www.instagram.com/embed.js"></script> -->
+<script src="//www.instagram.com/embed.js"></script>

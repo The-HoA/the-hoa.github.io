@@ -46,6 +46,9 @@ While Dungeons & Dragons is our most popular system, we also explore a variety o
 ### Can I GM a session with House of Adventures?
 Yes! We're always excited to collaborate with passionate Game Masters. If you'd like to run a game at one of our events or online, reach out through our contact form or Discord.
 
+### I want a table with no newbies and only experienced players or vice versa. Is that possible?
+We at HOA are working towards bring your favorite TTRPGs to as many people as possible, hence we absolutely welcome and value the newcomers willing to learn the game. That being said we also value the ones who has been loving this game for a long time, the experienced players. Hence, our tables generally has a balance between the newcomers and the experienced. We also occasionally have newbie exclusive or experienced exclusive tables, however that is not guaranteed and will only take place if we have less registrations of one category and more of the other.
+
 ### Where are your in-person events held?
 We host most of our in-person sessions in Kolkata. Venue details are shared ahead of each event. We occasionally partner with local cafés, anime conventions, and hobby spaces.
 

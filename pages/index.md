@@ -40,9 +40,20 @@ The guild of the Dungeon Masters are plotting!
       <!-- <div class="section-image-placeholder"></div>
       <div class="section-image-placeholder"></div>
       <div class="section-image-placeholder large"></div> -->
-    <img src="/pages/poster.jpg" alt="Description" class="section-image large" style="width: auto; height: 400px; object-fit: cover;">
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QVc3EiLd9D4?si=wRIHIz1Bq1oWc0z6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
+    <img src="/pages/poster.jpg" 
+        alt="House of Adventures Poster" 
+        style="
+          display: block;
+          margin: 0 auto;
+          max-width: 100%;
+          height: auto;
+          max-height: 800px;
+        ">
+  
   </div>
+
 </section>
 
 <section class="section what-we-do">
