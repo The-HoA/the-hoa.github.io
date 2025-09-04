@@ -58,7 +58,11 @@ But before that here are some stuff the recruit should know about!
 
 <div style="column-width: 350px; column-gap: 10px; column-fill: balance;">
 {% include instagram.html url="https://www.instagram.com/p/DOBf28mE8h8/" %}
-{% include instagram.html url="https://www.instagram.com/reel/DODdYVYkylh/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" %}
+{% include instagram.html url="https://www.instagram.com/reel/DODdYVYkylh" %}
 {% include instagram.html url="https://www.instagram.com/p/DOF0DDTE3XL" %}
+{% include instagram.html url="https://www.instagram.com/p/DOIajogE_jT" %}
+{% include instagram.html url="https://www.instagram.com/p/DOImoJDk_4_/?img_index=2" %}
+{% include instagram.html url="https://www.instagram.com/p/DODOqsLEydc/" %}
+{% include instagram.html url="https://www.instagram.com/p/DOK6Pfvk7fK/" %}
 </div>
 <script src="//www.instagram.com/embed.js"></script>
