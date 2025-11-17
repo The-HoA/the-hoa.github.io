@@ -14,6 +14,17 @@ permalink: /events/
     <div style="flex: 0 0 350px;">
       <!-- <img src="{{ '/assets/images/discord-embed.png' | relative_url }}" alt="Discord Embed" style="max-width: 100%; border-radius: 8px;"> -->
     </div>
+
+  <div style="display: flex; margin-bottom: 40px;">
+    <!-- <div style="width: 200px; height: 200px; background-color: #d3d3d3; margin-right: 30px; flex-shrink: 0;"></div> -->
+    <div style="width: 200px; height: 200px; background: url('/pages/events/event-ycct5/cover.jpeg') center/cover; margin-right: 30px; flex-shrink: 0;"></div>
+    <div>
+      <h3>You Can Certainly Try: Winter & Wonders</h3>
+      <p style="color: #666; font-size: 14px;">December, 2025</p>
+      <p>As winter settles in, so do stories of frost, folklore, and forgotten realms. You Can Certainly Try: Winter & Wonders, a one-day tabletop RPG meetup where imagination cuts through the cold like fire and starlight.</p>
+      <a href="/events/event-ycct5/" style="color: black; font-weight: bold; text-decoration: none; border-bottom: 2px solid black; padding-bottom: 2px;">EXPLORE</a>
+    </div>
+  </div>
     
 
   </div>
