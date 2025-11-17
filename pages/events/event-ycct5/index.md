@@ -9,7 +9,7 @@ permalink: /events/event-ycct5/ # Ensure a permalink is set
 
 {% include event_data.html
     venue       ="Little Bistro Lounge, near Quest Mall, Kolkata"
-    description ="As winter settles in, so do stories of frost, folklore, and forgotten realms. You Can Certainly Try: Winter & Wonders, a one-day tabletop RPG meetup where imagination cuts through the cold like fire and starlight."
+    description ="As winter settles over the land, myths awaken beneath the snow. Join us for You Can Certainly Try: Winter & Wonders, a one-day tabletop RPG meetup where bold stories thaw the chill and every roll sparks new magic."
     games       ="Dungeons & Dragons, Call of Cthulhu, Daggerheart"
 %}
 

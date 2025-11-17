@@ -21,7 +21,7 @@ permalink: /events/
     <div>
       <h3>You Can Certainly Try: Winter & Wonders</h3>
       <p style="color: #666; font-size: 14px;">December, 2025</p>
-      <p>As winter settles in, so do stories of frost, folklore, and forgotten realms. You Can Certainly Try: Winter & Wonders, a one-day tabletop RPG meetup where imagination cuts through the cold like fire and starlight.</p>
+      <p>As winter settles over the land, myths awaken beneath the snow. Join us for You Can Certainly Try: Winter & Wonders, a one-day tabletop RPG meetup where bold stories thaw the chill and every roll sparks new magic.</p>
       <a href="/events/event-ycct5/" style="color: black; font-weight: bold; text-decoration: none; border-bottom: 2px solid black; padding-bottom: 2px;">EXPLORE</a>
     </div>
   </div>
