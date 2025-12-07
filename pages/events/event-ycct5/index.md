@@ -32,12 +32,12 @@ But before that here are some stuff the recruit should know about!
 - Players are expected to maintain communication with their DMs and adhere to the session 0 and character creation deadlines.
 - In the event of non-communication, we reserve the right to cancel your tickets without refund after *30th November*. -->
 
-<div class="form-link" markdown="1">
-📝 - The players can sign up here 👉 [form link](https://forms.gle/UyxfRNuAhpWAir529)
-</div>
 <!-- <div class="form-link" markdown="1">
-📝 - The house is full! But you are cordially invted to spectate the games on 31st August!
+📝 - The players can sign up here 👉 [form link](https://forms.gle/UyxfRNuAhpWAir529)
 </div> -->
+<div class="form-link" markdown="1">
+📝 - The event is over, hope you enjoyed!
+</div>
 
 
 <!-- <div style="column-width: 350px; column-gap: 10px; column-fill: balance;">
