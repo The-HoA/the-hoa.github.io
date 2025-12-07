@@ -14,7 +14,14 @@ permalink: /events/
     <div style="flex: 0 0 350px;">
       <!-- <img src="{{ '/assets/images/discord-embed.png' | relative_url }}" alt="Discord Embed" style="max-width: 100%; border-radius: 8px;"> -->
     </div>
+    
 
+  </div>
+
+  <!-- Past Events -->
+  <h2>Past expeditions:</h2>
+
+  <!-- YCCT Winter and Wonders -->
   <div style="display: flex; margin-bottom: 40px;">
     <!-- <div style="width: 200px; height: 200px; background-color: #d3d3d3; margin-right: 30px; flex-shrink: 0;"></div> -->
     <div style="width: 200px; height: 200px; background: url('/pages/events/event-ycct5/cover.jpeg') center/cover; margin-right: 30px; flex-shrink: 0;"></div>
@@ -25,12 +32,6 @@ permalink: /events/
       <a href="/events/event-ycct5/" style="color: black; font-weight: bold; text-decoration: none; border-bottom: 2px solid black; padding-bottom: 2px;">EXPLORE</a>
     </div>
   </div>
-    
-
-  </div>
-
-  <!-- Past Events -->
-  <h2>Past expeditions:</h2>
 
   <!-- Deluge & Destiny -->
   <div style="display: flex; margin-bottom: 40px;">
